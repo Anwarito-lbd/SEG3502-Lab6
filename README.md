@@ -1,6 +1,9 @@
 # SEG3502 – Lab 6 : Service Web REST Calculator (Spring Boot + Kotlin)
 
-Auteur : Anwar Issaoui (aissa050@uottawa.ca) — Numéro étudiant : ______
+Étudiant 1 : Anwar — N° 300254189  
+Étudiant 2 : Manasse — N° 300268472  
+Dépôt GitHub : https://github.com/Anwarito-lbd/SEG3502-Lab6.git  
+Rapport : RAPPORT_LAB6.pdf
 
 Exercice du laboratoire 6 : service Web REST « Calculator » avec documentation OpenAPI (springdoc).
 
